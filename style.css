@@ -1,0 +1,11 @@
+body{font-family:Arial;margin:0;background:#f5f6fa}
+.center{display:flex;align-items:center;justify-content:center;height:100vh}
+.login-box{background:#fff;padding:30px;border-radius:8px}
+.layout{display:flex}
+.sidebar{width:200px;background:#222;color:#fff;padding:15px;height:100vh}
+.sidebar a{color:#fff;display:block;margin:10px 0;text-decoration:none}
+main{padding:20px;width:100%}
+.cards{display:flex;gap:10px}
+.card{background:#fff;padding:20px;border-radius:6px}
+table{background:#fff;border-collapse:collapse;width:100%}
+td,th{border:1px solid #ddd;padding:8px}
